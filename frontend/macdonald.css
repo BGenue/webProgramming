@@ -1,0 +1,25 @@
+p#main-content{
+  background-color: blue;
+  color: white;
+}
+
+img{
+  height: 250px;
+}
+
+.box{
+  border:4px solid red;
+}
+
+a:link{
+  text-decoration: none;
+}
+a:visited{
+  color:black;
+}
+a:hover{
+  color:red;
+}
+a:active{
+  color:yellow;
+}
